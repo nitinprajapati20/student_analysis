@@ -1,4 +1,4 @@
-gunicorn==20.0.4
+
 absl-py==0.8.1
 alabaster==0.7.12
 anaconda-client==1.7.2
